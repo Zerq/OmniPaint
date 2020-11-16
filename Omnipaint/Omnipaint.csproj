@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="src\app\DataModel.ts" />
     <None Remove="src\app\square.ts" />
     <None Remove="Zog.js.map" />
   </ItemGroup>
@@ -21,6 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="src\app\DataModel.ts">
+      <SubType>Code</SubType>
+    </TypeScriptCompile>
     <TypeScriptCompile Include="src\app\square.ts" />
   </ItemGroup>
 
