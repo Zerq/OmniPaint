@@ -1,3 +1,6 @@
+C:\Users\Zerq\Source\Repos\Zerq\OmniPaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.csprojAssemblyReference.cache
+C:\Users\Zerq\Source\Repos\Zerq\OmniPaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.dll
+C:\Users\Zerq\Source\Repos\Zerq\OmniPaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.pdb
 C:\Users\zerq_\source\repos\Omnipaint\Omnipaint\bin\Debug\netcoreapp3.1\angular.json
 C:\Users\zerq_\source\repos\Omnipaint\Omnipaint\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\zerq_\source\repos\Omnipaint\Omnipaint\bin\Debug\netcoreapp3.1\appsettings.json
@@ -36,7 +39,3 @@ C:\Users\zerq_\source\repos\Omnipaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipain
 C:\Users\zerq_\source\repos\Omnipaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.pdb
 C:\Users\zerq_\source\repos\Omnipaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.genruntimeconfig.cache
 C:\Users\zerq_\source\repos\Omnipaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.csproj.CopyComplete
-C:\Users\zerq_\source\repos\Omnipaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.csprojAssemblyReference.cache
-C:\Users\Zerq\Source\Repos\Zerq\OmniPaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.csprojAssemblyReference.cache
-C:\Users\Zerq\Source\Repos\Zerq\OmniPaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.dll
-C:\Users\Zerq\Source\Repos\Zerq\OmniPaint\Omnipaint\obj\Debug\netcoreapp3.1\Omnipaint.pdb

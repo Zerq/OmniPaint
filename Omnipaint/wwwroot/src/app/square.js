@@ -6,4 +6,5 @@ export class Square {
         this.ctx.fillRect(z * x, z * y, z, z);
     }
 }
+2;
 //# sourceMappingURL=square.js.map

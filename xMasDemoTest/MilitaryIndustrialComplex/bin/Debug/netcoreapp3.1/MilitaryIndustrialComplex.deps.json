@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MilitaryIndustrialComplex/1.0.0": {
+        "runtime": {
+          "MilitaryIndustrialComplex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MilitaryIndustrialComplex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

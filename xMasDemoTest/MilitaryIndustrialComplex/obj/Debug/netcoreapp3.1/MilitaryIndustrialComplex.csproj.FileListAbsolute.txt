@@ -1,0 +1,13 @@
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\bin\Debug\netcoreapp3.1\MilitaryIndustrialComplex.exe
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\bin\Debug\netcoreapp3.1\MilitaryIndustrialComplex.deps.json
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\bin\Debug\netcoreapp3.1\MilitaryIndustrialComplex.runtimeconfig.json
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\bin\Debug\netcoreapp3.1\MilitaryIndustrialComplex.runtimeconfig.dev.json
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\bin\Debug\netcoreapp3.1\MilitaryIndustrialComplex.dll
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\bin\Debug\netcoreapp3.1\MilitaryIndustrialComplex.pdb
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\obj\Debug\netcoreapp3.1\MilitaryIndustrialComplex.AssemblyInfoInputs.cache
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\obj\Debug\netcoreapp3.1\MilitaryIndustrialComplex.AssemblyInfo.cs
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\obj\Debug\netcoreapp3.1\MilitaryIndustrialComplex.csproj.CoreCompileInputs.cache
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\obj\Debug\netcoreapp3.1\MilitaryIndustrialComplex.dll
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\obj\Debug\netcoreapp3.1\MilitaryIndustrialComplex.pdb
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\obj\Debug\netcoreapp3.1\MilitaryIndustrialComplex.genruntimeconfig.cache
+C:\Users\zerq_\source\xMasDemoTest\MilitaryIndustrialComplex\obj\Debug\netcoreapp3.1\MilitaryIndustrialComplex.csprojAssemblyReference.cache

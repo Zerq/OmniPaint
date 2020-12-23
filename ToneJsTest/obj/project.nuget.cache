@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+riCCExBrWPRuKYLEKakrmeouACbutY8PHzgf04HTLSarc+KLz1QufwgMqdO9aDXG/Gah/G6mOlb9KU2GQIbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zerq_\\source\\repos\\Omnipaint\\ToneJsTest\\ToneJsTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerq_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zerq_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kZLuIgHK9y9sgwGSsjEWnJku894oH98QQoPi0lKgNUPI6O0av9MwrhyJ7Yi4FhmMz6PIRWf44EJ9pqgH9DadzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zerq_\\source\\xMasDemoTest\\MonoPaintEditor\\MonoPaintEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerq_\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\zerq_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zerq_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

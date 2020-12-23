@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZeSxmANAuBomQCif1NmIVdv/yqg5Ak4ffXv+H7GQWeXjS4pfANEmzpopZVlMmUW3mAIy68RTdmsDNULnnEh7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zerq_\\source\\xMasDemoTest\\MilitaryIndustrialComplex\\MilitaryIndustrialComplex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerq_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zerq_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

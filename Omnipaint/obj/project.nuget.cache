@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kdUY+o4DLAraL5z/sbW171lOuz/D54bxQPgavb8pivtka+0zgcFaqykDzC62V4QH5NO5Wcq17sKzD/zD6J/hUA==",
+  "dgSpecHash": "AbVveN+95Fh2qyXYHMzFYp9OmFYzlSSnIy9g1vh0Ezm4xhYxPh/tyqyiS+vM1ozqp8ziXLT3zxQ5HjT0XgY23w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zerq\\Source\\Repos\\Zerq\\OmniPaint\\Omnipaint\\Omnipaint.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\zerq_\\source\\repos\\Omnipaint\\Omnipaint\\Omnipaint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerq_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\zerq_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
